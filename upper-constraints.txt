@@ -267,7 +267,7 @@ pyparsing===2.1.10
 pypng===0.0.18
 pyroute2===0.3.16
 pyrsistent===0.11.12
-pysaml2===4.0.2
+pysaml2===6.5.0
 pysendfile===2.0.1
 pysmi===0.0.7
 pysnmp===4.3.2
